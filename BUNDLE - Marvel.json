@@ -7,7 +7,6 @@
 	"defaultNodeColor": "attr-type",
 	"defaultNodeSize": "global-occurrences",
 	"defaultEdgeSize": "matchings-count",
-	"description": "network of marvel characters",
 	"edgeAttributes": [
 		{
 			"id": "matchings-count",
@@ -36,24 +35,24 @@
 				{
 					"value": "character",
 					"count": 474,
-					"color": "rgb(161, 202, 148)"
+					"color": "rgb(165, 200, 143)"
 				},
 				{
 					"value": "film",
 					"count": 21,
-					"color": "rgb(209, 158, 195)"
+					"color": "rgb(203, 161, 202)"
 				}
 			],
 			"modalitiesIndex": {
 				"character": {
 					"value": "character",
 					"count": 474,
-					"color": "rgb(161, 202, 148)"
+					"color": "rgb(165, 200, 143)"
 				},
 				"film": {
 					"value": "film",
 					"count": 21,
-					"color": "rgb(209, 158, 195)"
+					"color": "rgb(203, 161, 202)"
 				}
 			},
 			"data": {
@@ -1171,44 +1170,44 @@
 				{
 					"value": "n/a",
 					"count": 474,
-					"color": "rgb(212, 178, 113)"
+					"color": "rgb(105, 208, 204)"
 				},
 				{
 					"value": "Phase 3",
 					"count": 9,
-					"color": "rgb(111, 198, 227)"
+					"color": "rgb(221, 167, 117)"
 				},
 				{
 					"value": "Phase 2",
 					"count": 6,
-					"color": "rgb(217, 153, 207)"
+					"color": "rgb(209, 156, 214)"
 				},
 				{
 					"value": "Phase 1",
 					"count": 6,
-					"color": "rgb(131, 210, 155)"
+					"color": "rgb(159, 204, 129)"
 				}
 			],
 			"modalitiesIndex": {
 				"n/a": {
 					"value": "n/a",
 					"count": 474,
-					"color": "rgb(212, 178, 113)"
+					"color": "rgb(105, 208, 204)"
 				},
 				"Phase 3": {
 					"value": "Phase 3",
 					"count": 9,
-					"color": "rgb(111, 198, 227)"
+					"color": "rgb(221, 167, 117)"
 				},
 				"Phase 2": {
 					"value": "Phase 2",
 					"count": 6,
-					"color": "rgb(217, 153, 207)"
+					"color": "rgb(209, 156, 214)"
 				},
 				"Phase 1": {
 					"value": "Phase 1",
 					"count": 6,
-					"color": "rgb(131, 210, 155)"
+					"color": "rgb(159, 204, 129)"
 				}
 			},
 			"data": {
@@ -1369,64 +1368,64 @@
 				{
 					"value": "Male",
 					"count": 339,
-					"color": "rgb(114, 189, 121)",
-					"$$hashKey": "object:214"
+					"color": "rgb(215, 136, 124)",
+					"$$hashKey": "object:723"
 				},
 				{
 					"value": "Female",
 					"count": 125,
-					"color": "rgb(215, 144, 214)",
-					"$$hashKey": "object:215"
+					"color": "rgb(87, 187, 188)",
+					"$$hashKey": "object:724"
 				},
 				{
 					"value": "",
 					"count": 21,
-					"color": "rgb(195, 158, 85)",
-					"$$hashKey": "object:216"
+					"color": "#AAA",
+					"$$hashKey": "object:725"
 				},
 				{
 					"value": "NA",
 					"count": 9,
-					"color": "rgb(122, 184, 227)",
-					"$$hashKey": "object:217"
+					"color": "#AAA",
+					"$$hashKey": "object:726"
 				},
 				{
 					"value": "Neutral",
 					"count": 1,
-					"color": "rgb(230, 129, 131)",
-					"$$hashKey": "object:218"
+					"color": "#AAA",
+					"$$hashKey": "object:727"
 				}
 			],
 			"modalitiesIndex": {
 				"Male": {
 					"value": "Male",
 					"count": 339,
-					"color": "rgb(114, 189, 121)",
-					"$$hashKey": "object:214"
+					"color": "rgb(215, 136, 124)",
+					"$$hashKey": "object:723"
 				},
 				"Female": {
 					"value": "Female",
 					"count": 125,
-					"color": "rgb(215, 144, 214)",
-					"$$hashKey": "object:215"
+					"color": "rgb(87, 187, 188)",
+					"$$hashKey": "object:724"
 				},
 				"": {
 					"value": "",
 					"count": 21,
-					"color": "rgb(195, 158, 85)",
-					"$$hashKey": "object:216"
+					"color": "#AAA",
+					"$$hashKey": "object:725"
 				},
 				"NA": {
 					"value": "NA",
 					"count": 9,
-					"color": "rgb(122, 184, 227)",
-					"$$hashKey": "object:217"
+					"color": "#AAA",
+					"$$hashKey": "object:726"
 				},
 				"Neutral": {
 					"value": "Neutral",
 					"count": 1,
-					"color": "rgb(230, 129, 131)",
-					"$$hashKey": "object:218"
+					"color": "#AAA",
+					"$$hashKey": "object:727"
 				}
 			},
 			"data": {
@@ -1646,592 +1645,494 @@
 				{
 					"value": "Human",
 					"count": 330,
-					"color": "rgb(161, 194, 65)",
-					"$$hashKey": "object:279"
+					"color": "rgb(106, 197, 225)"
 				},
 				{
 					"value": "NA",
 					"count": 38,
-					"color": "rgb(199, 65, 155)",
-					"$$hashKey": "object:280"
+					"color": "rgb(231, 146, 130)"
 				},
 				{
 					"value": "Asgardian",
 					"count": 23,
-					"color": "#AAA",
-					"$$hashKey": "object:281"
+					"color": "rgb(99, 216, 184)"
 				},
 				{
 					"value": "",
 					"count": 21,
-					"color": "#AAA",
-					"$$hashKey": "object:282"
+					"color": "rgb(233, 148, 200)"
 				},
 				{
 					"value": "Kree",
 					"count": 9,
-					"color": "#AAA",
-					"$$hashKey": "object:283"
+					"color": "rgb(145, 210, 144)"
 				},
 				{
 					"value": "Krylorian",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:284"
+					"color": "rgb(178, 166, 234)"
 				},
 				{
 					"value": "Sakaaran",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:285"
+					"color": "rgb(161, 182, 97)"
 				},
 				{
 					"value": "Xandarian",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:286"
+					"color": "rgb(211, 170, 104)"
 				},
 				{
 					"value": "Frost Giant",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:287"
+					"color": "rgb(218, 217, 136)"
 				},
 				{
 					"value": "Sovereign",
 					"count": 4,
-					"color": "#AAA",
-					"$$hashKey": "object:288"
+					"color": "#AAA"
 				},
 				{
 					"value": "Android",
 					"count": 3,
-					"color": "#AAA",
-					"$$hashKey": "object:289"
+					"color": "#AAA"
 				},
 				{
 					"value": "Skrull",
 					"count": 3,
-					"color": "#AAA",
-					"$$hashKey": "object:290"
+					"color": "#AAA"
 				},
 				{
 					"value": "Ant",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:291"
+					"color": "#AAA"
 				},
 				{
 					"value": "Dog",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:292"
+					"color": "#AAA"
 				},
 				{
 					"value": "Celestial",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:293"
+					"color": "#AAA"
 				},
 				{
 					"value": "Zehoberei",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:294"
+					"color": "#AAA"
 				},
 				{
 					"value": "Kronan",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:295"
+					"color": "#AAA"
 				},
 				{
 					"value": "Dark Elf",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:296"
+					"color": "#AAA"
 				},
 				{
 					"value": "Artificial Intelligence",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:297"
+					"color": "#AAA"
 				},
 				{
 					"value": "Arcturan",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:298"
+					"color": "#AAA"
 				},
 				{
 					"value": "Polemachian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:299"
+					"color": "#AAA"
 				},
 				{
 					"value": "Achernonian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:300"
+					"color": "#AAA"
 				},
 				{
 					"value": "Jovian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:301"
+					"color": "#AAA"
 				},
 				{
 					"value": "Faltine ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:302"
+					"color": "#AAA"
 				},
 				{
 					"value": "NA ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:303"
+					"color": "#AAA"
 				},
 				{
 					"value": "Dwarf",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:304"
+					"color": "#AAA"
 				},
 				{
 					"value": "Asgardian Wolf",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:305"
+					"color": "#AAA"
 				},
 				{
 					"value": "Fire Dragon",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:306"
+					"color": "#AAA"
 				},
 				{
 					"value": "Bullet Ant",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:307"
+					"color": "#AAA"
 				},
 				{
 					"value": "Flerken",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:308"
+					"color": "#AAA"
 				},
 				{
 					"value": "Flora colossus",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:309"
+					"color": "#AAA"
 				},
 				{
 					"value": "Asgardian ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:310"
+					"color": "#AAA"
 				},
 				{
 					"value": "Vanir",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:311"
+					"color": "#AAA"
 				},
 				{
 					"value": "Hurctarian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:312"
+					"color": "#AAA"
 				},
 				{
 					"value": "Cockatoo",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:313"
+					"color": "#AAA"
 				},
 				{
 					"value": "Mindless One",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:314"
+					"color": "#AAA"
 				},
 				{
 					"value": "Lem",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:315"
+					"color": "#AAA"
 				},
 				{
 					"value": "Plutonian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:316"
+					"color": "#AAA"
 				},
 				{
 					"value": "Cat",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:317"
+					"color": "#AAA"
 				},
 				{
 					"value": "Luphomoid",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:318"
+					"color": "#AAA"
 				},
 				{
 					"value": "Krylorian / Xandarian Hybrid",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:319"
+					"color": "#AAA"
 				},
 				{
 					"value": "Halfworlder",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:320"
+					"color": "#AAA"
 				},
 				{
 					"value": "Human/Celestial Hybrid",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:321"
+					"color": "#AAA"
 				},
 				{
 					"value": "Fire Demon",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:322"
+					"color": "#AAA"
 				},
 				{
 					"value": "Stark",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:323"
+					"color": "#AAA"
 				},
 				{
 					"value": "Titan",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:324"
+					"color": "#AAA"
 				},
 				{
 					"value": "Ant ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:325"
+					"color": "#AAA"
 				},
 				{
 					"value": "Human (Cybernetically enhanced)",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:326"
+					"color": "#AAA"
 				},
 				{
 					"value": "Centaurian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:327"
+					"color": "#AAA"
 				}
 			],
 			"modalitiesIndex": {
 				"Human": {
 					"value": "Human",
 					"count": 330,
-					"color": "rgb(161, 194, 65)",
-					"$$hashKey": "object:279"
+					"color": "rgb(106, 197, 225)"
 				},
 				"NA": {
 					"value": "NA",
 					"count": 38,
-					"color": "rgb(199, 65, 155)",
-					"$$hashKey": "object:280"
+					"color": "rgb(231, 146, 130)"
 				},
 				"Asgardian": {
 					"value": "Asgardian",
 					"count": 23,
-					"color": "#AAA",
-					"$$hashKey": "object:281"
+					"color": "rgb(99, 216, 184)"
 				},
 				"": {
 					"value": "",
 					"count": 21,
-					"color": "#AAA",
-					"$$hashKey": "object:282"
+					"color": "rgb(233, 148, 200)"
 				},
 				"Kree": {
 					"value": "Kree",
 					"count": 9,
-					"color": "#AAA",
-					"$$hashKey": "object:283"
+					"color": "rgb(145, 210, 144)"
 				},
 				"Krylorian": {
 					"value": "Krylorian",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:284"
+					"color": "rgb(178, 166, 234)"
 				},
 				"Sakaaran": {
 					"value": "Sakaaran",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:285"
+					"color": "rgb(161, 182, 97)"
 				},
 				"Xandarian": {
 					"value": "Xandarian",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:286"
+					"color": "rgb(211, 170, 104)"
 				},
 				"Frost Giant": {
 					"value": "Frost Giant",
 					"count": 5,
-					"color": "#AAA",
-					"$$hashKey": "object:287"
+					"color": "rgb(218, 217, 136)"
 				},
 				"Sovereign": {
 					"value": "Sovereign",
 					"count": 4,
-					"color": "#AAA",
-					"$$hashKey": "object:288"
+					"color": "#AAA"
 				},
 				"Android": {
 					"value": "Android",
 					"count": 3,
-					"color": "#AAA",
-					"$$hashKey": "object:289"
+					"color": "#AAA"
 				},
 				"Skrull": {
 					"value": "Skrull",
 					"count": 3,
-					"color": "#AAA",
-					"$$hashKey": "object:290"
+					"color": "#AAA"
 				},
 				"Ant": {
 					"value": "Ant",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:291"
+					"color": "#AAA"
 				},
 				"Dog": {
 					"value": "Dog",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:292"
+					"color": "#AAA"
 				},
 				"Celestial": {
 					"value": "Celestial",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:293"
+					"color": "#AAA"
 				},
 				"Zehoberei": {
 					"value": "Zehoberei",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:294"
+					"color": "#AAA"
 				},
 				"Kronan": {
 					"value": "Kronan",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:295"
+					"color": "#AAA"
 				},
 				"Dark Elf": {
 					"value": "Dark Elf",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:296"
+					"color": "#AAA"
 				},
 				"Artificial Intelligence": {
 					"value": "Artificial Intelligence",
 					"count": 2,
-					"color": "#AAA",
-					"$$hashKey": "object:297"
+					"color": "#AAA"
 				},
 				"Arcturan": {
 					"value": "Arcturan",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:298"
+					"color": "#AAA"
 				},
 				"Polemachian": {
 					"value": "Polemachian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:299"
+					"color": "#AAA"
 				},
 				"Achernonian": {
 					"value": "Achernonian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:300"
+					"color": "#AAA"
 				},
 				"Jovian": {
 					"value": "Jovian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:301"
+					"color": "#AAA"
 				},
 				"Faltine ": {
 					"value": "Faltine ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:302"
+					"color": "#AAA"
 				},
 				"NA ": {
 					"value": "NA ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:303"
+					"color": "#AAA"
 				},
 				"Dwarf": {
 					"value": "Dwarf",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:304"
+					"color": "#AAA"
 				},
 				"Asgardian Wolf": {
 					"value": "Asgardian Wolf",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:305"
+					"color": "#AAA"
 				},
 				"Fire Dragon": {
 					"value": "Fire Dragon",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:306"
+					"color": "#AAA"
 				},
 				"Bullet Ant": {
 					"value": "Bullet Ant",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:307"
+					"color": "#AAA"
 				},
 				"Flerken": {
 					"value": "Flerken",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:308"
+					"color": "#AAA"
 				},
 				"Flora colossus": {
 					"value": "Flora colossus",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:309"
+					"color": "#AAA"
 				},
 				"Asgardian ": {
 					"value": "Asgardian ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:310"
+					"color": "#AAA"
 				},
 				"Vanir": {
 					"value": "Vanir",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:311"
+					"color": "#AAA"
 				},
 				"Hurctarian": {
 					"value": "Hurctarian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:312"
+					"color": "#AAA"
 				},
 				"Cockatoo": {
 					"value": "Cockatoo",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:313"
+					"color": "#AAA"
 				},
 				"Mindless One": {
 					"value": "Mindless One",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:314"
+					"color": "#AAA"
 				},
 				"Lem": {
 					"value": "Lem",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:315"
+					"color": "#AAA"
 				},
 				"Plutonian": {
 					"value": "Plutonian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:316"
+					"color": "#AAA"
 				},
 				"Cat": {
 					"value": "Cat",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:317"
+					"color": "#AAA"
 				},
 				"Luphomoid": {
 					"value": "Luphomoid",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:318"
+					"color": "#AAA"
 				},
 				"Krylorian / Xandarian Hybrid": {
 					"value": "Krylorian / Xandarian Hybrid",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:319"
+					"color": "#AAA"
 				},
 				"Halfworlder": {
 					"value": "Halfworlder",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:320"
+					"color": "#AAA"
 				},
 				"Human/Celestial Hybrid": {
 					"value": "Human/Celestial Hybrid",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:321"
+					"color": "#AAA"
 				},
 				"Fire Demon": {
 					"value": "Fire Demon",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:322"
+					"color": "#AAA"
 				},
 				"Stark": {
 					"value": "Stark",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:323"
+					"color": "#AAA"
 				},
 				"Titan": {
 					"value": "Titan",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:324"
+					"color": "#AAA"
 				},
 				"Ant ": {
 					"value": "Ant ",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:325"
+					"color": "#AAA"
 				},
 				"Human (Cybernetically enhanced)": {
 					"value": "Human (Cybernetically enhanced)",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:326"
+					"color": "#AAA"
 				},
 				"Centaurian": {
 					"value": "Centaurian",
 					"count": 1,
-					"color": "#AAA",
-					"$$hashKey": "object:327"
+					"color": "#AAA"
 				}
 			},
 			"data": {
